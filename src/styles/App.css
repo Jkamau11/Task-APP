@@ -1,0 +1,17 @@
+.to-do{
+  display: flex;
+  flex-direction: row;
+  column-gap: 5px;
+}
+
+label{
+  font-size: large;
+}
+
+input{
+  width: 300px
+}
+
+.to-do-list{
+  margin-top: 10px;
+}
